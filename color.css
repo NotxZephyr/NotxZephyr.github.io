@@ -1,0 +1,19 @@
+.text {
+  text-align: center;
+  color: rgb(130, 0, 0);
+}
+
+#textAlso {
+  text-align: center;
+  color: rgb(177, 255, 255);
+  padding: 5px;
+  margin: 5px;
+  background-color: rgb(35, 67, 126);
+}
+
+#web {
+  text-align: center;
+  color: rgb(255, 176, 131);
+}
+
+/*# sourceMappingURL=color.css.map */
